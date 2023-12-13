@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/operator/bin/Debug/net7.0/operator
+/Users/macos/Desktop/Operator/operator/bin/Debug/net7.0/operator.deps.json
+/Users/macos/Desktop/Operator/operator/bin/Debug/net7.0/operator.runtimeconfig.json
+/Users/macos/Desktop/Operator/operator/bin/Debug/net7.0/operator.dll
+/Users/macos/Desktop/Operator/operator/bin/Debug/net7.0/operator.pdb
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/operator.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/operator.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/operator.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/operator.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/operator.dll
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/refint/operator.dll
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/operator.pdb
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/operator.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/operator/obj/Debug/net7.0/ref/operator.dll
